@@ -16,7 +16,7 @@ from typing import Dict, List, Optional, Tuple, Any
 from dataclasses import dataclass, field
 from datetime import datetime
 
-# ==================== CONFIGURATION ====================
+# CONFIGURATION
 CONFIG = {
     "bootstrap_nodes": ["127.0.0.1:8080"],
     "node_port": 8080,
