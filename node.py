@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' improved with seeds integration, Multi-sig DEX POOLS and small bugs fixes'''
+"""improved with seeds integration, Multi-sig DEX POOLS and small bugs fixes"""
 
 
 import asyncio
