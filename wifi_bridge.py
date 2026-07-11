@@ -1,15 +1,5 @@
 #!/usr/bin/env python3
-"""
-MICROCORE WIFI BRIDGE v12.0 — WALLET-BASED REGISTRATION
-FIXES:
-- ✅ Wallet-based registration (not username)
-- ✅ confirmed_balance tracking
-- ✅ Better EEPROM message handling
-- ✅ Proper registration forwarding with wallet
-- ✅ Invalid JSON recovery
-- ✅ COM4 forced connection
-- ✅ Detailed debug logging
-"""
+
 
 import asyncio
 import serial
